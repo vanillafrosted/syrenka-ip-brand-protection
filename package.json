@@ -3,19 +3,8 @@
   "version": "1.0.0",
   "description": "Syrenka - English IP & Brand Protection Sister Site",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "^15.0.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
-  },
-  "devDependencies": {
-    "eslint": "^8.0.0",
-    "eslint-config-next": "^15.0.0"
+    "build": "echo 'Static site - no build required'",
+    "dev": "python3 -m http.server 3000"
   },
   "engines": {
     "node": "24.x"
