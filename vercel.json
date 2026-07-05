@@ -2,10 +2,5 @@
   "version": 2,
   "framework": "nextjs",
   "buildCommand": "npm run build",
-  "env": {
-    "NEXT_PUBLIC_SITE_URL": {
-      "default": "https://syrenka-ip-brand-protection.vercel.app"
-    }
-  },
   "regions": ["sfo1"]
 }
