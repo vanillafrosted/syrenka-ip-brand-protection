@@ -1,5 +1,4 @@
 {
-  "name": "syrenka-ip-brand-protection",
   "version": 2,
   "framework": "nextjs",
   "buildCommand": "npm run build",
@@ -8,6 +7,5 @@
       "default": "https://syrenka-ip-brand-protection.vercel.app"
     }
   },
-  "regions": ["sfo1"],
-  "public": true
+  "regions": ["sfo1"]
 }
