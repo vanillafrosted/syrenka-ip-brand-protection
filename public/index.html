@@ -70,7 +70,8 @@
         nav a:hover { opacity: 0.8; }
         .hero { padding: 0; margin: 0; }
         .hero-image-wrapper { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
-        .hero-image { width: 100%; height: auto; display: block; }
+        .hero-image-link { display: block; text-decoration: none; }
+        .hero-image { width: 100%; height: auto; display: block; cursor: pointer; }
         .hero-content { max-width: 1000px; margin: 0 auto; }
         .hero h1 { font-size: 48px; font-weight: 700; color: var(--navy); margin-bottom: 12px; }
         .hero p { font-size: 16px; color: var(--gray-text); line-height: 1.7; }
@@ -105,7 +106,9 @@
 
     <section class="hero">
         <div class="hero-image-wrapper">
-            <img src="/assets/header/header-en.png" alt="Protect Your Brand with Real Experience" class="hero-image">
+            <a href="/" class="hero-image-link">
+                <img src="/assets/header/header-en.png" alt="Protect Your Brand with Real Experience" class="hero-image">
+            </a>
         </div>
     </section>
 

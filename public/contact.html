@@ -41,7 +41,10 @@
         .logo { font-size: 24px; font-weight: 700; color: white; text-decoration: none; }
         nav { display: flex; gap: 32px; }
         nav a { color: white; text-decoration: none; font-size: 14px; font-weight: 500; }
-        .hero { background: linear-gradient(135deg, var(--teal-pale) 0%, rgba(255,255,255,0.3) 100%); padding: 60px 40px; text-align: center; border-bottom: 4px solid var(--teal-primary); }
+        .hero { padding: 0; margin: 0; }
+        .hero-image-wrapper { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
+        .hero-image-link { display: block; text-decoration: none; }
+        .hero-image { width: 100%; height: auto; display: block; cursor: pointer; }
         .hero-content { max-width: 1000px; margin: 0 auto; }
         .hero h1 { font-size: 48px; font-weight: 700; color: var(--navy); margin-bottom: 12px; }
         .hero p { font-size: 16px; color: var(--gray-text); line-height: 1.7; }
@@ -62,7 +65,8 @@
         .footer-col h4 { font-size: 12px; font-weight: 700; text-transform: uppercase; margin-bottom: 16px; color: var(--teal-primary); }
         .footer-col a { font-size: 14px; line-height: 1.8; color: rgba(255, 255, 255, 0.8); text-decoration: none; }
         .footer-bottom { border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 24px; text-align: center; font-size: 12px; color: rgba(255, 255, 255, 0.6); }
-        @media (max-width: 768px) { .hero h1 { font-size: 36px; } nav { display: none; } }
+        @media (max-width: 768px) { .hero h1 { font-size: 36px; } nav { display: none; } .hero-image-wrapper { padding: 0 20px; } }
+        @media (max-width: 480px) { .hero-image-wrapper { padding: 0 12px; } }
     </style>
 </head>
 <body>
@@ -79,9 +83,10 @@
     </header>
 
     <section class="hero">
-        <div class="hero-content">
-            <h1>Get In Touch</h1>
-            <p>Have questions about protecting your brand? We'd love to hear from you.</p>
+        <div class="hero-image-wrapper">
+            <a href="/" class="hero-image-link">
+                <img src="/assets/header/header-en.png" alt="Protect Your Brand with Real Experience" class="hero-image">
+            </a>
         </div>
     </section>
 
