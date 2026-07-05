@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+Sitemap: https://syrenka-ip-brand-protection.vercel.app/sitemap.xml
