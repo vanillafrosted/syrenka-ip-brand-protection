@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Syrenka - English IP & Brand Protection Sister Site",
   "scripts": {
-    "build": "echo 'Static site - no build required'",
-    "dev": "python3 -m http.server 3000"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.0.0"
   },
   "engines": {
     "node": "24.x"
