@@ -1,6 +1,7 @@
 {
   "buildCommand": "echo 'Static site - no build needed'",
   "outputDirectory": "public",
+  "regions": ["sin1"],
   "rewrites": [
     {
       "source": "/",
