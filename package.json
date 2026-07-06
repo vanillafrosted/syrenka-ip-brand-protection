@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "Syrenka - English IP & Brand Protection Sister Site",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "^15.0.0"
+    "dev": "echo 'Static site - no dev server needed'",
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site - no start server needed'"
   },
   "engines": {
     "node": "24.x"
