@@ -368,6 +368,30 @@ The real story is already compelling. We don't need to improve it; we need to te
 
 ---
 
+# INSIGHTS SUMMARY BY TYPE
+
+## Best Practices from Article No.1
+(Techniques that made the article stronger - repeat in all future articles)
+
+✓ **Specificity Over Generalization** — Use exact platform names, numbers, timeframes, objects
+✓ **Privacy ≠ Removing Truth** — Protect identity, preserve emotional meaning
+✓ **Framework Emergence** — Let readers discover with Ray, don't announce structure upfront
+✓ **Experience First, Lesson Second** — Show journey before explaining it
+✓ **Show Actions, Not Emotions** — Ray's actions convey her feelings better than emotional words
+✓ **Details Establish Credibility** — Specific details signal authenticity
+✓ **Real Story Is Strongest** — Trust the truth over creative invention
+
+## Lessons Learned from Article No.1
+(Mistakes we corrected - avoid repeating in future articles)
+
+✗ **Don't Generalize Away Power** — Avoid generic language that masks real story
+✗ **Don't Add Knowledge Too Early** — Ray doesn't understand legal concepts until later
+✗ **Don't Remove Meaning for Privacy** — Preserve emotional truth while protecting identity
+
+These insights form the writing DNA that makes Syrenka articles authentic and powerful.
+
+---
+
 # TEAM INSIGHTS RECORD
 ## Standardized Format for All Team Discoveries
 
@@ -381,11 +405,20 @@ Any team member (Christopher, Robert, Nathan, Lucas, Maki) should use this forma
 Review Stage: [Writing / SEO / Fact Check / QA / Final Review]
 Discovered By: [Christopher / Robert / Nathan / Lucas / Maki]
 Article: [Article No.]
-Insight: [What was learned or discovered]
-Decision: [What action or guideline resulted]
+Type: [Lesson Learned / Best Practice]
+Insight: [What was discovered - either a mistake to avoid or a technique that works]
+Decision: [What action, guideline, or technique resulted]
 Applied To: [Current article only / All future articles]
 Date: [YYYY-MM-DD]
 ```
+
+### Type Definitions:
+
+**Lesson Learned:** Something we did wrong and corrected. Future articles should avoid this.
+
+**Best Practice:** Something that worked well. Future articles should intentionally use this technique.
+
+Both types are equally valuable. Together they become the writing DNA of the Syrenka project.
 
 ---
 
@@ -397,8 +430,9 @@ Date: [YYYY-MM-DD]
 Review Stage: Writing/Final Review
 Discovered By: Maki (clarified during review)
 Article: Article No.1
-Insight: Generic language ("images were stolen") masks the real power of specific details ("Amazon-exclusive images appeared on Mercari"). Specific details signal authenticity and credibility. Generic language requires readers to imagine what happened.
-Decision: Always use specific platform names, timeframes, object names, numbers. If unsure of a detail, flag it for verification rather than generalizing.
+Type: Best Practice
+Insight: Generic language ("images were stolen") masks the real power of specific details ("Amazon-exclusive images appeared on Mercari"). Specific details signal authenticity and credibility. Generic language requires readers to imagine what happened. The real story has more power than the imagined one.
+Decision: Always use specific platform names, timeframes, object names, numbers. If unsure of a detail, flag it for verification rather than generalizing. Specificity is a writing strength, not a limitation.
 Applied To: All future articles
 Date: 2026-07-07
 ```
@@ -409,6 +443,7 @@ Date: 2026-07-07
 Review Stage: Writing/Final Review
 Discovered By: Maki (corrected premature legal concepts)
 Article: Article No.1
+Type: Lesson Learned
 Insight: Early Ray does not understand legal terminology like "personality rights" or "publicity rights." She simply feels violation. Legal understanding develops gradually through the series as she gains experience. Forcing legal concepts into early articles breaks her authentic journey of discovery.
 Decision: Match Ray's knowledge to where she is in her journey at each article. Early articles: confusion and experimentation. Later articles: legal and conceptual understanding. Every article must respect the chronological progression.
 Applied To: All future articles
@@ -421,8 +456,9 @@ Date: 2026-07-07
 Review Stage: Final Review
 Discovered By: Maki (clarified privacy boundaries)
 Article: Article No.1
-Insight: When protecting privacy, ask "What is the emotional/educational meaning readers need?" Preserve the meaning; protect the identity. In Article No.1: protect event identity ("don't say fitness competition"), preserve achievement proof ("gold medal and trophy"). Emotional truth is preserved; privacy is protected.
-Decision: Always ask: What can be removed without losing the essential meaning? Remove only identifying details, not the meaning itself.
+Type: Best Practice
+Insight: When protecting privacy, ask "What is the emotional/educational meaning readers need?" Preserve the meaning; protect the identity. In Article No.1: protect event identity ("don't say fitness competition"), preserve achievement proof ("gold medal and trophy"). Emotional truth is preserved; privacy is protected. Both can coexist.
+Decision: Always ask: What can be removed without losing the essential meaning? Remove only identifying details, not the meaning itself. This technique preserves authenticity while respecting privacy.
 Applied To: All future articles
 Date: 2026-07-07
 ```
@@ -433,8 +469,9 @@ Date: 2026-07-07
 Review Stage: Writing/Final Review
 Discovered By: Christopher (feedback from Maki)
 Article: Article No.1
-Insight: Readers discover frameworks WITH Ray, not FROM Ray. "Here are three levels" sounds like instruction. "I tried this, then that, then that, and looking back I see three approaches" feels like authentic discovery. The journey builds the framework; the framework doesn't contain the journey.
-Decision: Never announce a predetermined structure upfront. Show the journey. Only near the end of an article can Ray reflect on what she discovered.
+Type: Best Practice
+Insight: Readers discover frameworks WITH Ray, not FROM Ray. "Here are three levels" sounds like instruction. "I tried this, then that, then that, and looking back I see three approaches" feels like authentic discovery. The journey builds the framework; the framework doesn't contain the journey. This makes readers participants, not audiences.
+Decision: Never announce a predetermined structure upfront. Show the journey. Only near the end of an article can Ray reflect on what she discovered. This creates genuine reader engagement.
 Applied To: All future articles
 Date: 2026-07-07
 ```
@@ -445,8 +482,9 @@ Date: 2026-07-07
 Review Stage: Writing/Final Review
 Discovered By: Maki (editorial principle)
 Article: Article No.1
-Insight: Structure matters: Experience → Reaction → Attempt → Learning → Reflection. When readers understand context before lessons, the advice makes sense because they've lived the journey. Understanding earned through experience sticks better than instructions given without context.
-Decision: Article structure should always lead with what actually happened. Explanation and advice emerge from the experience, not before it.
+Type: Best Practice
+Insight: Structure matters: Experience → Reaction → Attempt → Learning → Reflection. When readers understand context before lessons, the advice makes sense because they've lived the journey. Understanding earned through experience sticks better than instructions given without context. This is how Ray's voice becomes trusted.
+Decision: Article structure should always lead with what actually happened. Explanation and advice emerge from the experience, not before it. This is the rhythm that makes Ray's voice authentic.
 Applied To: All future articles
 Date: 2026-07-07
 ```
@@ -457,8 +495,9 @@ Date: 2026-07-07
 Review Stage: Writing/Final Review
 Discovered By: Maki (guidance on authentic voice)
 Article: Article No.1
-Insight: "I closed the app and didn't look at it again for three days" is more powerful than "I felt devastated and couldn't bring myself to look." Readers believe what Ray did more than what Ray says she felt. Her actions show her emotions better than her words about them.
-Decision: Show Ray's actions, behaviors, choices. Trust readers to feel her emotion from what she did. Avoid emotional adjectives; use specific actions instead.
+Type: Best Practice
+Insight: "I closed the app and didn't look at it again for three days" is more powerful than "I felt devastated and couldn't bring myself to look." Readers believe what Ray did more than what Ray says she felt. Her actions show her emotions better than her words about them. Actions are proof; adjectives are claims.
+Decision: Show Ray's actions, behaviors, choices. Trust readers to feel her emotion from what she did. Avoid emotional adjectives; use specific actions instead. This makes Ray's voice stronger and more believable.
 Applied To: All future articles
 Date: 2026-07-07
 ```
@@ -469,8 +508,9 @@ Date: 2026-07-07
 Review Stage: Fact Check / Writing
 Discovered By: Maki (emphasized throughout Article No.1 revisions)
 Article: Article No.1
-Insight: Specific details signal "I was there and remember this." Generic language signals "I'm reconstructing this." Examples: "Mercari" vs "online platform," "multiple Mercari Shops sellers" vs "some sellers," "three days" vs "waited a while," "gold medal and trophy" vs "awards."
-Decision: Use specific names, numbers, timeframes, object names. Every detail should be concrete. If you don't know a specific detail, flag it for verification rather than generalizing.
+Type: Best Practice
+Insight: Specific details signal "I was there and remember this." Generic language signals "I'm reconstructing this." Examples: "Mercari" vs "online platform," "multiple Mercari Shops sellers" vs "some sellers," "three days" vs "waited a while," "gold medal and trophy" vs "awards." Details are the fingerprints of authenticity.
+Decision: Use specific names, numbers, timeframes, object names. Every detail should be concrete. If you don't know a specific detail, flag it for verification rather than generalizing. Specificity is a tool for building reader trust.
 Applied To: All future articles
 Date: 2026-07-07
 ```
@@ -481,8 +521,9 @@ Date: 2026-07-07
 Review Stage: Final Review
 Discovered By: Maki (pattern in corrections)
 Article: Article No.1
-Insight: Every correction revealed the real story was stronger than our version. "Amazon-exclusive images appeared on Mercari" is more shocking than generic "images were stolen." "Multiple sellers were using them" is more significant than "someone copied it." Real details contain power; invention weakens stories.
-Decision: Trust Maki's real experience more than creative imagination. Ask clarifying questions rather than filling gaps with invention. The truth is already compelling.
+Type: Best Practice
+Insight: Every correction revealed the real story was stronger than our version. "Amazon-exclusive images appeared on Mercari" is more shocking than generic "images were stolen." "Multiple sellers were using them" is more significant than "someone copied it." Real details contain power; invention weakens stories. The truth has built-in authenticity.
+Decision: Trust Maki's real experience more than creative imagination. Ask clarifying questions rather than filling gaps with invention. The truth is already compelling. This principle makes the Syrenka project fundamentally different from fiction.
 Applied To: All future articles / All team members
 Date: 2026-07-07
 ```
