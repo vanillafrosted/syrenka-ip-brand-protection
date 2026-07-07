@@ -54,21 +54,23 @@
         .hero h1 { font-size: 48px; font-weight: 700; color: var(--navy); margin-bottom: 12px; }
         .hero p { font-size: 16px; color: var(--gray-text); line-height: 1.7; }
         .content { max-width: 1200px; margin: 0 auto; padding: 48px 40px; }
-        .articles-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-        .article-card { background: white; border: 1px solid var(--gray-light); border-radius: 12px; overflow: hidden; transition: all 200ms; cursor: pointer; text-decoration: none; color: inherit; }
-        .article-card:hover { border-color: var(--teal-primary); box-shadow: 0 8px 20px rgba(32, 178, 170, 0.1); transform: translateY(-4px); }
-        .article-image { width: 100%; height: 120px; background: linear-gradient(135deg, var(--teal-primary), var(--gray-light)); display: flex; align-items: center; justify-content: center; font-size: 40px; }
-        .article-body { padding: 20px; }
-        .article-category { font-size: 11px; font-weight: 600; background: var(--teal-pale); color: var(--teal-primary); display: inline-block; padding: 4px 8px; border-radius: 4px; margin-bottom: 12px; text-transform: uppercase; }
-        .article-title { font-size: 16px; font-weight: 600; color: var(--navy); margin-bottom: 8px; line-height: 1.4; }
-        .article-excerpt { font-size: 13px; color: var(--gray-text); line-height: 1.6; margin-bottom: 12px; }
-        .article-meta { font-size: 12px; color: var(--gray-text); display: flex; justify-content: space-between; }
+        .articles-list { display: flex; flex-direction: column; gap: 24px; max-width: 800px; }
+        .article-card { background: white; border: 1px solid var(--gray-light); border-radius: 8px; overflow: hidden; transition: all 200ms; cursor: pointer; text-decoration: none; color: inherit; display: flex; flex-direction: column; }
+        .article-card:hover { border-color: var(--teal-primary); box-shadow: 0 4px 12px rgba(32, 178, 170, 0.1); }
+        .article-body { padding: 20px; display: flex; flex-direction: column; }
+        .article-meta-top { font-size: 12px; color: var(--gray-text); margin-bottom: 12px; }
+        .article-category { font-size: 11px; font-weight: 600; background: var(--teal-pale); color: var(--teal-primary); display: inline-block; padding: 4px 8px; border-radius: 4px; text-transform: uppercase; width: fit-content; }
+        .article-title { font-size: 18px; font-weight: 600; color: var(--navy); margin-bottom: 12px; line-height: 1.4; }
+        .article-excerpt { font-size: 14px; color: var(--gray-text); line-height: 1.7; margin-bottom: 16px; flex-grow: 1; }
+        .article-meta { font-size: 12px; color: var(--teal-primary); font-weight: 500; }
+        .article-meta a { color: var(--teal-primary); text-decoration: none; }
+        .article-meta a:hover { text-decoration: underline; }
         footer { background: var(--navy); color: white; padding: 48px 40px 24px; margin-top: 48px; }
         .footer-content { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; margin-bottom: 32px; }
         .footer-col h4 { font-size: 12px; font-weight: 700; text-transform: uppercase; margin-bottom: 16px; color: var(--teal-primary); }
         .footer-col a { font-size: 14px; line-height: 1.8; color: rgba(255, 255, 255, 0.8); text-decoration: none; }
         .footer-bottom { border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 24px; text-align: center; font-size: 12px; color: rgba(255, 255, 255, 0.6); }
-        @media (max-width: 768px) { .hero h1 { font-size: 36px; } nav { display: none; } .articles-grid { grid-template-columns: repeat(2, 1fr); } .hero-image-wrapper { padding: 0 20px; } }
+        @media (max-width: 768px) { .hero h1 { font-size: 36px; } nav { display: none; } .articles-list { max-width: 100%; } .hero-image-wrapper { padding: 0 20px; } .content { padding: 32px 20px; } }
         @media (max-width: 480px) { .hero-image-wrapper { padding: 0 12px; } }
     </style>
 </head>
@@ -94,81 +96,84 @@
     </section>
 
     <div class="content">
-        <div class="articles-grid">
-            <a href="/articles/building-brand-foundation" class="article-card">
-                <div class="article-image">📋</div>
+        <div class="articles-list">
+            <!-- Published Articles -->
+            <a href="/articles/product-images-stolen" class="article-card">
                 <div class="article-body">
-                    <span class="article-category">Foundation</span>
-                    <h3 class="article-title">Building Your Brand's Legal Foundation</h3>
-                    <p class="article-excerpt">Essential first steps to protect your intellectual property from day one.</p>
+                    <div class="article-meta-top">
+                        <span class="article-category">First Experience Series</span>
+                        <span style="margin-left: 12px; color: var(--gray-text);">July 7, 2026</span>
+                    </div>
+                    <h3 class="article-title">When Your Product Images Get Stolen: What Actually Happened</h3>
+                    <p class="article-excerpt">I found my Amazon-exclusive images on Mercari. My credibility was being used to sell products I never made. Here's what happened as I learned to protect my work—and what it taught me about brand protection.</p>
                     <div class="article-meta">
-                        <span>5 min read</span>
-                        <span>→</span>
+                        <a href="/articles/product-images-stolen">Read Article →</a>
                     </div>
                 </div>
             </a>
 
-            <a href="/articles/protecting-business-across-borders" class="article-card">
-                <div class="article-image">🛍️</div>
+            <!-- Coming Soon Articles -->
+            <div class="article-card" style="opacity: 0.7;">
                 <div class="article-body">
-                    <span class="article-category">Strategy</span>
-                    <h3 class="article-title">Protecting Your Business Across Borders</h3>
-                    <p class="article-excerpt">Real strategies for defending your brand on global platforms like Amazon.</p>
+                    <div class="article-meta-top">
+                        <span class="article-category">Coming Soon</span>
+                    </div>
+                    <h3 class="article-title">Understanding Trademark Registration and Why It Starts With Your Images</h3>
+                    <p class="article-excerpt">Why your product images are the foundation of trademark protection, and how to prepare them before filing official registration.</p>
                     <div class="article-meta">
-                        <span>7 min read</span>
-                        <span>→</span>
+                        <span style="color: var(--gray-text);">Coming Soon</span>
                     </div>
                 </div>
-            </a>
+            </div>
 
-            <a href="/articles/when-to-take-legal-action" class="article-card">
-                <div class="article-image">⚖️</div>
+            <div class="article-card" style="opacity: 0.7;">
                 <div class="article-body">
-                    <span class="article-category">Action</span>
-                    <h3 class="article-title">When and How to Take Legal Action</h3>
-                    <p class="article-excerpt">Real experience on recognizing when to escalate and how to proceed.</p>
+                    <div class="article-meta-top">
+                        <span class="article-category">Coming Soon</span>
+                    </div>
+                    <h3 class="article-title">What Happened When I Filed My First Legal Case</h3>
+                    <p class="article-excerpt">The reality of taking action against image theft. What actually happens in court, what evidence matters, and what surprised me most.</p>
                     <div class="article-meta">
-                        <span>6 min read</span>
-                        <span>→</span>
+                        <span style="color: var(--gray-text);">Coming Soon</span>
                     </div>
                 </div>
-            </a>
+            </div>
 
-            <a href="/articles/copyright-and-intellectual-property" class="article-card">
-                <div class="article-image">©️</div>
+            <div class="article-card" style="opacity: 0.7;">
                 <div class="article-body">
-                    <span class="article-category">Copyright</span>
-                    <h3 class="article-title">Understanding Copyright and Intellectual Property</h3>
-                    <p class="article-excerpt">What you need to know about protecting your creative works.</p>
+                    <div class="article-meta-top">
+                        <span class="article-category">Coming Soon</span>
+                    </div>
+                    <h3 class="article-title">Protecting Your Package Design: Building Security Into Your Physical Product</h3>
+                    <p class="article-excerpt">Beyond images: how to protect your package design, materials, and physical product features from copying.</p>
                     <div class="article-meta">
-                        <span>5 min read</span>
-                        <span>→</span>
+                        <span style="color: var(--gray-text);">Coming Soon</span>
                     </div>
                 </div>
-            </a>
+            </div>
 
-            <a href="/articles/trademark-registration-strategies" class="article-card">
-                <div class="article-image">™️</div>
+            <div class="article-card" style="opacity: 0.7;">
                 <div class="article-body">
-                    <span class="article-category">Trademarks</span>
-                    <h3 class="article-title">Trademark Registration and Protection Strategies</h3>
-                    <p class="article-excerpt">Complete guide to registering and defending your brand trademark.</p>
+                    <div class="article-meta-top">
+                        <span class="article-category">Coming Soon</span>
+                    </div>
+                    <h3 class="article-title">From Discovery to Court: What Evidence Actually Matters</h3>
+                    <p class="article-excerpt">Real lessons from handling 36+ cases. What evidence the courts care about, and what won't help your case.</p>
                     <div class="article-meta">
-                        <span>8 min read</span>
-                        <span>→</span>
+                        <span style="color: var(--gray-text);">Coming Soon</span>
                     </div>
                 </div>
-            </a>
+            </div>
 
-            <div class="article-card">
-                <div class="article-image">✨</div>
+            <div class="article-card" style="opacity: 0.7;">
                 <div class="article-body">
-                    <span class="article-category">Coming Soon</span>
-                    <h3 class="article-title">More Articles Coming</h3>
-                    <p class="article-excerpt">Additional strategies and real case studies are being prepared.</p>
+                    <div class="article-meta-top">
+                        <span class="article-category">Coming Soon</span>
+                    </div>
+                    <h3 class="article-title">And 78 More Articles</h3>
+                    <p class="article-excerpt">Articles from Phase 1 adaptation are being prepared. All 83 English articles will be published progressively.</p>
                     <div class="article-meta">
-                        <span>Stay tuned</span>
-                        <span>→</span>
+                        <span style="color: var(--gray-text);">Coming Soon</span>
                     </div>
                 </div>
             </div>
