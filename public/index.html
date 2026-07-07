@@ -82,7 +82,18 @@
         .card-icon { font-size: 40px; margin-bottom: 16px; }
         .card h3 { font-size: 18px; font-weight: 600; color: var(--navy); margin-bottom: 8px; }
         .card p { font-size: 14px; color: var(--gray-text); }
-        footer { background: var(--navy); color: white; padding: 48px 40px 24px; margin-top: 48px; }
+        .start-here-section { background: linear-gradient(135deg, var(--teal-pale) 0%, rgba(255,255,255,0) 100%); border: 1px solid #D0E8E6; border-radius: 12px; padding: 48px 40px; margin-bottom: 48px; max-width: 900px; margin-left: auto; margin-right: auto; }
+        .start-here-header { text-align: center; margin-bottom: 32px; }
+        .start-here-label { font-size: 12px; font-weight: 700; text-transform: uppercase; color: var(--teal-primary); letter-spacing: 0.3px; margin-bottom: 8px; }
+        .start-here-title { font-size: 28px; font-weight: 700; color: var(--navy); margin-bottom: 16px; }
+        .start-here-content { display: flex; flex-direction: column; gap: 24px; }
+        .featured-article { }
+        .featured-article-title { font-size: 20px; font-weight: 600; color: var(--navy); margin-bottom: 12px; line-height: 1.4; }
+        .featured-article-description { font-size: 15px; color: var(--gray-text); line-height: 1.8; margin-bottom: 20px; }
+        .featured-article-button { display: inline-block; padding: 12px 24px; background-color: var(--teal-primary); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: all 200ms; }
+        .featured-article-button:hover { opacity: 0.9; transform: translateY(-2px); }
+        @media (max-width: 768px) { .start-here-section { padding: 32px 24px; margin-bottom: 32px; } .start-here-title { font-size: 24px; } .featured-article-title { font-size: 18px; } }
+        @media (max-width: 480px) { .start-here-section { padding: 24px 16px; } .start-here-title { font-size: 20px; } .featured-article-description { font-size: 14px; } }
         .footer-content { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; margin-bottom: 32px; }
         .footer-col h4 { font-size: 12px; font-weight: 700; text-transform: uppercase; margin-bottom: 16px; color: var(--teal-primary); }
         .footer-col p, .footer-col a { font-size: 14px; line-height: 1.8; color: rgba(255, 255, 255, 0.8); text-decoration: none; }
@@ -113,6 +124,22 @@
     </section>
 
     <div class="content">
+        <section class="start-here-section">
+            <div class="start-here-header">
+                <div class="start-here-label">New to Syrenka?</div>
+                <h2 class="start-here-title">Start Here</h2>
+                <p style="font-size: 15px; color: var(--gray-text);">Begin with the first story that started everything.</p>
+            </div>
+
+            <div class="start-here-content">
+                <div class="featured-article">
+                    <h3 class="featured-article-title">When Your Product Images Get Stolen: What Actually Happened</h3>
+                    <p class="featured-article-description">Discover the real experience that became the foundation of Syrenka and why protecting a brand begins long before the first legal action.</p>
+                    <a href="/articles/product-images-stolen.html" class="featured-article-button">Read the First Article →</a>
+                </div>
+            </div>
+        </section>
+
         <section>
             <h2 style="text-align: center; font-size: 32px; margin-bottom: 48px; color: var(--navy);">Brand Protection Made Practical</h2>
 
