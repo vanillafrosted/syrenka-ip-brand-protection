@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="When Ray's product images were stolen and resold, she had to learn how to protect her work. Here's what happened as she tried to figure it out.">
+    <meta name="theme-color" content="#20b2aa">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- OpenGraph Tags -->
+    <meta property="og:title" content="When Your Product Images Get Stolen—What I Learned">
+    <meta property="og:description" content="Ray's images were copied and resold. She didn't know what to do. Here's what happened as she tried to figure out how to protect her work.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://syrenka-ip-brand-protection.vercel.app/articles/product-images-stolen.html">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="When Your Product Images Get Stolen—What I Learned">
+    <meta name="twitter:description" content="Ray's images were copied and resold. Here's what happened as she figured out how to protect her work.">
+
+    <!-- Canonical and Language Links -->
+    <link rel="canonical" href="https://syrenka-ip-brand-protection.vercel.app/articles/product-images-stolen.html">
+    <link rel="alternate" hreflang="en" href="https://syrenka-ip-brand-protection.vercel.app/articles/product-images-stolen.html">
+
+    <title>When Your Product Images Get Stolen—What I Learned | Syrenka</title>
+    <style>
+        :root {
+            --teal-primary: #20B2AA;
+            --teal-light: #6FD4CC;
+            --teal-pale: #E8F9F7;
+            --navy: #1A1A3E;
+            --gray-text: #4B5563;
+            --gray-light: #E5E7EB;
+            --white: #FFFFFF;
+            --warning-bg: #FFF3CD;
+            --warning-border: #FFE69C;
+            --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--font-family); color: var(--navy); background: var(--white); line-height: 1.6; }
+        header { background-color: var(--teal-primary); padding: 16px 40px; position: sticky; top: 0; z-index: 1000; }
+        .header-content { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 24px; font-weight: 700; color: white; text-decoration: none; }
+        nav { display: flex; gap: 32px; }
+        nav a { color: white; text-decoration: none; font-size: 14px; font-weight: 500; }
+        .preview-banner { background: var(--warning-bg); border-bottom: 2px solid var(--warning-border); padding: 16px 40px; }
+        .preview-banner-content { max-width: 1200px; margin: 0 auto; font-size: 14px; color: var(--navy); }
+        .preview-banner strong { font-weight: 600; }
+        .hero { padding: 0; margin: 0; }
+        .hero-image-wrapper { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
+        .hero-image-link { display: block; text-decoration: none; }
+        .hero-image { width: 100%; height: auto; display: block; cursor: pointer; }
+        .article-header { max-width: 900px; margin: 48px auto 0; padding: 0 40px; }
+        .article-meta { font-size: 14px; color: var(--gray-text); margin-bottom: 16px; }
+        .article-title { font-size: 42px; font-weight: 700; color: var(--navy); margin-bottom: 24px; line-height: 1.3; }
+        .content { max-width: 900px; margin: 0 auto; padding: 48px 40px; }
+        .section { margin-bottom: 48px; }
+        .section h2 { font-size: 28px; font-weight: 600; color: var(--navy); margin-bottom: 20px; border-bottom: 2px solid var(--teal-pale); padding-bottom: 12px; }
+        .section h3 { font-size: 20px; font-weight: 600; color: var(--navy); margin-top: 32px; margin-bottom: 16px; }
+        .section p { font-size: 16px; color: var(--gray-text); line-height: 1.8; margin-bottom: 16px; }
+        .section ul { margin-left: 24px; margin-bottom: 16px; }
+        .section li { font-size: 16px; color: var(--gray-text); line-height: 1.8; margin-bottom: 12px; }
+        .highlight { background-color: var(--teal-pale); padding: 24px; border-left: 4px solid var(--teal-primary); margin: 24px 0; }
+        .highlight p { margin-bottom: 0; font-style: italic; }
+        .cta-box { background: linear-gradient(135deg, var(--teal-pale) 0%, rgba(255,255,255,0) 100%); border: 1px solid var(--teal-light); padding: 32px; border-radius: 12px; margin: 40px 0; }
+        .cta-box h3 { margin-top: 0; }
+        footer { background: var(--navy); color: white; padding: 48px 40px 24px; margin-top: 48px; }
+        .footer-content { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; margin-bottom: 32px; }
+        .footer-col h4 { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; margin-bottom: 16px; color: var(--teal-light); }
+        .footer-col p, .footer-col a { font-size: 14px; line-height: 1.8; color: rgba(255, 255, 255, 0.8); text-decoration: none; }
+        .footer-bottom { border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 24px; text-align: center; font-size: 12px; color: rgba(255, 255, 255, 0.6); }
+        .footer-col a { display: block; }
+        .back-link { margin-bottom: 24px; }
+        .back-link a { color: var(--teal-primary); text-decoration: none; font-weight: 500; }
+        .back-link a:hover { text-decoration: underline; }
+        @media (max-width: 768px) {
+            .article-title { font-size: 32px; }
+            nav { display: none; }
+            .footer-content { grid-template-columns: 1fr; }
+            .hero-image-wrapper { padding: 0 20px; }
+            .article-header { padding: 0 20px; }
+            .content { padding: 32px 20px; }
+        }
+        @media (max-width: 480px) {
+            .hero-image-wrapper { padding: 0 12px; }
+            .article-header { padding: 0 12px; }
+            .content { padding: 24px 12px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <a href="/" class="logo">Syrenka</a>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/articles">Articles</a>
+                <a href="/about">About</a>
+                <a href="/contact">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="preview-banner">
+        <div class="preview-banner-content">
+            <strong>⚠️ PREVIEW DRAFT:</strong> This article is under review and not yet officially published. Content may change based on team feedback.
+        </div>
+    </div>
+
+    <section class="hero">
+        <div class="hero-image-wrapper">
+            <a href="/" class="hero-image-link">
+                <img src="/assets/header/header-en.png" alt="Protect Your Brand with Real Experience" class="hero-image">
+            </a>
+        </div>
+    </section>
+
+    <div class="article-header">
+        <div class="back-link">
+            <a href="/articles">← Back to Articles</a>
+        </div>
+        <div class="article-meta">
+            By Ray Kono • Brand Protection Fundamentals • First Experience Series
+        </div>
+        <h1 class="article-title">When Your Product Images Get Stolen: What Actually Happened</h1>
+    </div>
+
+    <div class="content">
+        <section class="section">
+            <p>I was doing what I did most mornings—checking my Amazon listings to see how things looked, scrolling through the search results for my own products the way you do when you're curious how customers see you.</p>
+
+            <p>That's when I saw it.</p>
+
+            <p>My image. The exact photograph I'd spent hours creating. The product positioned the way I'd positioned it. The lighting I'd chosen. Everything.</p>
+
+            <p>Except the seller wasn't me.</p>
+
+            <p>I stared at the screen for a long time. I kept thinking maybe I was misremembering my own photo. Like maybe I was wrong. But I wasn't. It was mine. Every detail. Down to the way I'd edited it.</p>
+
+            <p>The seller had given it a different name. Listed it at a higher price. And was already getting orders.</p>
+
+            <p>I closed the app and didn't look at it again for three days.</p>
+        </section>
+
+        <section class="section">
+            <h2>The Hurt of Stolen Time</h2>
+
+            <p>Here's what I didn't expect: the anger I felt wasn't just about lost sales.</p>
+
+            <p>I'd spent hours on those images. Not exaggerating—actual hours. I'd arranged the product, taken multiple shots, adjusted the lighting, edited them until they looked exactly the way I wanted them to look. Some of those photos even had me in them—my hands holding the product, my face in the corner to show that a real person stood behind this work.</p>
+
+            <p>When I saw someone else using those images, it didn't feel like copying. It felt like they'd taken the time I could never get back.</p>
+
+            <p>That mattered more to me than the money.</p>
+        </section>
+
+        <section class="section">
+            <h2>Trying to Figure Out What to Do</h2>
+
+            <p>I didn't know anything about copyright or trademark law at that point. I didn't know what I was allowed to do. I didn't even know if what was happening was illegal.</p>
+
+            <p>I reported it to Amazon. They said they'd look into it. Then nothing happened. The listing stayed up.</p>
+
+            <p>I waited a few weeks, checked back, and it was still there.</p>
+
+            <p>So I reported it again.</p>
+
+            <p>This time, nothing happened faster.</p>
+
+            <p>I remember feeling really helpless. I'd created this work. I could see someone using it. And I had no idea how to make it stop.</p>
+
+            <p>That's when I started wondering: what if I made my images differently?</p>
+        </section>
+
+        <section class="section">
+            <h2>The First Thing I Tried</h2>
+
+            <p>I decided to add my logo to my product images.</p>
+
+            <p>It seemed simple enough. If my logo was on there, anyone looking at the photo would know it belonged to me. And if someone stole it, it would be obvious they'd stolen it—my name would be right there.</p>
+
+            <p>I'm not sure if this would actually help, honestly. But I had to try something.</p>
+
+            <p>So I created a version of my logo and started putting it on every new product photo I took. Not huge and obnoxious. Just visible enough that you could see it was part of the image.</p>
+
+            <p>I also decided to create images specifically for Amazon. I wouldn't use the same photos on other platforms. That way, if I saw my image somewhere else, I'd know for sure it was stolen—it would have Amazon-specific elements in it that made no sense anywhere else.</p>
+
+            <p>I started doing these things. I'm not sure how much it actually helped—I couldn't go back and check if fewer images were stolen because I was too busy running my business. But it felt like I was doing <em>something</em>.</p>
+        </section>
+
+        <section class="section">
+            <h2>My First Real Problem</h2>
+
+            <p>Then something happened that made me realize how much deeper this issue went.</p>
+
+            <p>I discovered that someone had copied one of my listings <em>including the images where my face was visible.</em></p>
+
+            <p>My actual face. In their listing. Being used to sell their version of my product.</p>
+
+            <p>That wasn't just copyright infringement or whatever. That was using my image to sell something. That was different.</p>
+
+            <p>I felt violated in a way I hadn't before.</p>
+
+            <p>I don't remember exactly what I did at that point—I think I just panicked and reported it everywhere I could. But nothing happened. The listing stayed up.</p>
+
+            <p>At some point, I realized I needed to actually understand what my options were. So I started reading about trademark and copyright. I started talking to people who'd been through similar situations.</p>
+
+            <p>And very slowly, I began to understand that there might be a legal path forward if I documented things properly and built a case.</p>
+
+            <p>That's when I decided to file my first actual legal complaint.</p>
+        </section>
+
+        <section class="section">
+            <h2>Learning From Actually Fighting Back</h2>
+
+            <p>I won't go into all the details of that first case—it was messy, I made mistakes, I didn't know what I was doing. But I learned something crucial from it:</p>
+
+            <div class="highlight">
+                <p><strong>The court cared about proof that something was mine from the start.</strong></p>
+            </div>
+
+            <p>My logo in the image? That mattered. The fact that the image had my specific design choices? That mattered. Evidence that I'd created it on a specific date? That mattered.</p>
+
+            <p>But generic product photos with no identifying marks? Those were harder to prove were mine.</p>
+
+            <p>The judge asked me questions like: "How do you know you created this and not the defendant?"</p>
+
+            <p>And suddenly I realized: I needed to have been more intentional about marking my work as <em>mine</em> from the beginning.</p>
+        </section>
+
+        <section class="section">
+            <h2>Trying Something Different</h2>
+
+            <p>After that case, I started approaching my images completely differently.</p>
+
+            <p>I stopped just arranging products and taking photos. I started being deliberate about making the images <em>recognizably mine</em>.</p>
+
+            <p>I began taking my own photographs instead of sourcing generic product images. I made my own design choices about backgrounds, angles, styling. I added custom graphics—things I created, not templates everyone could use. I chose specific fonts and colors and used them consistently across all my images.</p>
+
+            <p>I was basically trying to make it so that if someone copied my image, they weren't just copying a photo. They were copying something I'd clearly put creative work into.</p>
+
+            <p>I wasn't even sure this would help legally. But I was learning, slowly, that the more obviously creative something was, the easier it was to defend.</p>
+
+            <p>It took time. I was still running my business. I was still dealing with copied listings. But I was learning as I went, trying different approaches, seeing what seemed to work better.</p>
+        </section>
+
+        <section class="section">
+            <h2>The Bigger Realization</h2>
+
+            <p>At some point—I can't pinpoint exactly when—I realized something.</p>
+
+            <p>When I included my own photograph in product images, things changed.</p>
+
+            <p>Not just legally, but practically. Sellers who might copy a generic product photo thought twice about copying an image with my face on it. Because copying my face meant they were literally stealing my likeness. That was different. That was meaner, in a way.</p>
+
+            <p>So I started including myself in at least some of my images. Not as a model, but as proof. "This product is real. This person made it. This is not some generic item."</p>
+
+            <p>And fewer of those images got copied.</p>
+        </section>
+
+        <section class="section">
+            <h2>Looking Back and Seeing the Pattern</h2>
+
+            <p>I've been writing this trying to explain what happened, and I'm realizing something as I write.</p>
+
+            <p>I didn't have a plan. I wasn't strategically building layers of protection.</p>
+
+            <p>I was just... trying things. Discovering what worked. Running into problems and then asking "what if I did this instead?"</p>
+
+            <p>But looking back now at everything I tried—adding my logo, making creative design choices, including my own image—I can see something I didn't see while I was doing it:</p>
+
+            <p>There were actually three different approaches I ended up using. And they got progressively stronger.</p>
+
+            <p>The first thing I did—adding identifying marks like logos and consistent visual design—made my images obviously mine. It protected my trademark in a way that was simple and clear.</p>
+
+            <p>Then I moved to making the images more creatively distinctive—my own photography, my own design choices, my own artistic input. This protected the creative work I'd actually done.</p>
+
+            <p>Finally, I started including my own image. My face. My person. That made it so copying my images wasn't just about stealing product photos. It was about stealing me.</p>
+
+            <p>Each level was something I discovered because the previous level wasn't quite enough. Not because I had some master plan.</p>
+        </section>
+
+        <section class="section">
+            <h2>What I Know Now (But Didn't Know Then)</h2>
+
+            <p>I'm telling you this because I wish someone had explained this to me when I was first starting.</p>
+
+            <p>Not as three neat strategies. But as three natural steps I could take—each one simple enough to do, but each one stronger than the last.</p>
+
+            <p>You don't need to do all three. You don't need to have it all figured out from the start.</p>
+
+            <p>But if you're worried about your images being copied—and if you're selling a product you care about, you probably should be—you could start with the simplest thing: marking your work as yours with a logo or consistent visual style.</p>
+
+            <p>And if that's not enough, you know where to go next.</p>
+
+            <p>I learned this all through trial and error. Through cases that I wasn't sure I'd win. Through spending nights reading about copyright law when I barely understood what I was reading.</p>
+
+            <p>But I learned it. And now you don't have to figure it out alone.</p>
+        </section>
+
+        <section class="section">
+            <h2>Key Takeaways</h2>
+            <ul>
+                <li>When your product images get stolen, the hurt isn't just about sales—it's about time and creativity being taken</li>
+                <li>Adding identifying marks to your images (logos, consistent design) makes them recognizably yours from the start</li>
+                <li>Creating images with your own creative input (your photography, your design choices) makes them stronger to defend</li>
+                <li>Including your own image in product photos adds a personal layer that most counterfeiters avoid</li>
+                <li>Each level of protection emerged from discovering that the previous approach wasn't quite enough</li>
+                <li>You don't need to have a perfect system before you start—you can build it as you learn</li>
+                <li>The court system cares about proof that something was yours from the beginning</li>
+                <li>The more intentional you are about marking your work as yours, the less likely it is to be stolen in the first place</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Practical Tips</h2>
+
+            <h3>Tip 1: Start Somewhere Simple</h3>
+            <p>Add your logo to your next product image. That's it. You don't need a perfect plan. You don't need to transform everything today. Add one identifying mark and see how it feels. See how it changes how you think about your work.</p>
+
+            <h3>Tip 2: Pick a Visual Style and Stick With It</h3>
+            <p>Choose 1-2 colors. Choose a font. Choose a layout approach. Use the same style across all your images. This isn't about being fancy—it's about being recognizably you. When customers see your images, they should instantly know they're from you.</p>
+
+            <h3>Tip 3: Take At Least One Photo Yourself</h3>
+            <p>You don't have to photograph everything. But create at least one product image where the photo is genuinely yours—an angle only you thought of, a moment only you captured. This makes your listing much harder to copy wholesale.</p>
+
+            <h3>Tip 4: Save Your Original Files</h3>
+            <p>Keep the original image files. Keep records of when you created them. Keep evidence of your creative process if you can. If you ever need to prove something in court, these records matter more than you'd think.</p>
+
+            <h3>Tip 5: Remember This Is a Process</h3>
+            <p>You don't need to do everything at once. You're learning as you go. Try one thing. See what you learn. Then try the next thing. That's how I figured this out, and it works.</p>
+        </section>
+
+        <section class="section">
+            <h2>Disclaimer</h2>
+            <p>This article shares Ray Kono's personal experience protecting her brand in Japan. It is not legal advice. Every situation is unique, and what worked for Ray may not work for your circumstances.</p>
+
+            <p>For specific legal advice about copyright, trademark, image rights, or brand protection in your country or region, please consult with a qualified intellectual property attorney.</p>
+
+            <p>The strategies described are based on real experience with Japanese e-commerce platforms and Japanese courts. Laws, policies, and court procedures vary significantly by country and region.</p>
+        </section>
+
+        <section class="cta-box">
+            <h3>If You've Had Your Images Stolen</h3>
+            <p>You know that helpless feeling. You also know it's a sign that your work is worth protecting.</p>
+
+            <p>Start today with something small. Add one mark that says "this is mine." See how that feels.</p>
+
+            <p>You don't need to have everything figured out. You just need to start.</p>
+        </section>
+
+        <section class="section">
+            <h2>Related Articles (Coming Soon)</h2>
+            <ul>
+                <li>Understanding Trademark Registration and Why It Starts With Your Images</li>
+                <li>What Happened When I Filed My First Legal Case</li>
+                <li>Protecting Your Package Design: Building Security Into Your Physical Product</li>
+                <li>From Discovery to Court: What Evidence Actually Matters</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-col">
+                <h4>Syrenka</h4>
+                <p>Real brand protection experience from Japan. Protecting small brands worldwide.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Quick Links</h4>
+                <a href="/">Home</a>
+                <a href="/articles">Articles</a>
+                <a href="/about">About</a>
+            </div>
+            <div class="footer-col">
+                <h4>Legal</h4>
+                <a href="/disclaimer">Disclaimer</a>
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/contact">Contact</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2026 Syrenka | English Brand Protection | <strong>PREVIEW DRAFT — NOT PUBLISHED</strong></p>
+        </div>
+    </footer>
+</body>
+</html>
