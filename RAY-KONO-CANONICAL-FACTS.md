@@ -368,6 +368,127 @@ The real story is already compelling. We don't need to improve it; we need to te
 
 ---
 
+# TEAM INSIGHTS RECORD
+## Standardized Format for All Team Discoveries
+
+Any team member (Christopher, Robert, Nathan, Lucas, Maki) should use this format when recording a valuable insight. This keeps team knowledge centralized and accessible to everyone.
+
+---
+
+## INSIGHT TEMPLATE
+
+```
+Review Stage: [Writing / SEO / Fact Check / QA / Final Review]
+Discovered By: [Christopher / Robert / Nathan / Lucas / Maki]
+Article: [Article No.]
+Insight: [What was learned or discovered]
+Decision: [What action or guideline resulted]
+Applied To: [Current article only / All future articles]
+Date: [YYYY-MM-DD]
+```
+
+---
+
+## RECORDED INSIGHTS FROM ARTICLE NO.1
+
+### Insight #1: Specificity Over Generalization
+
+```
+Review Stage: Writing/Final Review
+Discovered By: Maki (clarified during review)
+Article: Article No.1
+Insight: Generic language ("images were stolen") masks the real power of specific details ("Amazon-exclusive images appeared on Mercari"). Specific details signal authenticity and credibility. Generic language requires readers to imagine what happened.
+Decision: Always use specific platform names, timeframes, object names, numbers. If unsure of a detail, flag it for verification rather than generalizing.
+Applied To: All future articles
+Date: 2026-07-07
+```
+
+### Insight #2: Temporal Authenticity in Ray's Knowledge
+
+```
+Review Stage: Writing/Final Review
+Discovered By: Maki (corrected premature legal concepts)
+Article: Article No.1
+Insight: Early Ray does not understand legal terminology like "personality rights" or "publicity rights." She simply feels violation. Legal understanding develops gradually through the series as she gains experience. Forcing legal concepts into early articles breaks her authentic journey of discovery.
+Decision: Match Ray's knowledge to where she is in her journey at each article. Early articles: confusion and experimentation. Later articles: legal and conceptual understanding. Every article must respect the chronological progression.
+Applied To: All future articles
+Date: 2026-07-07
+```
+
+### Insight #3: Privacy ≠ Removing Emotional Truth
+
+```
+Review Stage: Final Review
+Discovered By: Maki (clarified privacy boundaries)
+Article: Article No.1
+Insight: When protecting privacy, ask "What is the emotional/educational meaning readers need?" Preserve the meaning; protect the identity. In Article No.1: protect event identity ("don't say fitness competition"), preserve achievement proof ("gold medal and trophy"). Emotional truth is preserved; privacy is protected.
+Decision: Always ask: What can be removed without losing the essential meaning? Remove only identifying details, not the meaning itself.
+Applied To: All future articles
+Date: 2026-07-07
+```
+
+### Insight #4: Framework Emergence vs. Announcement
+
+```
+Review Stage: Writing/Final Review
+Discovered By: Christopher (feedback from Maki)
+Article: Article No.1
+Insight: Readers discover frameworks WITH Ray, not FROM Ray. "Here are three levels" sounds like instruction. "I tried this, then that, then that, and looking back I see three approaches" feels like authentic discovery. The journey builds the framework; the framework doesn't contain the journey.
+Decision: Never announce a predetermined structure upfront. Show the journey. Only near the end of an article can Ray reflect on what she discovered.
+Applied To: All future articles
+Date: 2026-07-07
+```
+
+### Insight #5: Experience First, Lesson Second
+
+```
+Review Stage: Writing/Final Review
+Discovered By: Maki (editorial principle)
+Article: Article No.1
+Insight: Structure matters: Experience → Reaction → Attempt → Learning → Reflection. When readers understand context before lessons, the advice makes sense because they've lived the journey. Understanding earned through experience sticks better than instructions given without context.
+Decision: Article structure should always lead with what actually happened. Explanation and advice emerge from the experience, not before it.
+Applied To: All future articles
+Date: 2026-07-07
+```
+
+### Insight #6: Show Actions, Not Emotions
+
+```
+Review Stage: Writing/Final Review
+Discovered By: Maki (guidance on authentic voice)
+Article: Article No.1
+Insight: "I closed the app and didn't look at it again for three days" is more powerful than "I felt devastated and couldn't bring myself to look." Readers believe what Ray did more than what Ray says she felt. Her actions show her emotions better than her words about them.
+Decision: Show Ray's actions, behaviors, choices. Trust readers to feel her emotion from what she did. Avoid emotional adjectives; use specific actions instead.
+Applied To: All future articles
+Date: 2026-07-07
+```
+
+### Insight #7: Details Establish Credibility
+
+```
+Review Stage: Fact Check / Writing
+Discovered By: Maki (emphasized throughout Article No.1 revisions)
+Article: Article No.1
+Insight: Specific details signal "I was there and remember this." Generic language signals "I'm reconstructing this." Examples: "Mercari" vs "online platform," "multiple Mercari Shops sellers" vs "some sellers," "three days" vs "waited a while," "gold medal and trophy" vs "awards."
+Decision: Use specific names, numbers, timeframes, object names. Every detail should be concrete. If you don't know a specific detail, flag it for verification rather than generalizing.
+Applied To: All future articles
+Date: 2026-07-07
+```
+
+### Insight #8: Real Story Is Stronger Than Invented
+
+```
+Review Stage: Final Review
+Discovered By: Maki (pattern in corrections)
+Article: Article No.1
+Insight: Every correction revealed the real story was stronger than our version. "Amazon-exclusive images appeared on Mercari" is more shocking than generic "images were stolen." "Multiple sellers were using them" is more significant than "someone copied it." Real details contain power; invention weakens stories.
+Decision: Trust Maki's real experience more than creative imagination. Ask clarifying questions rather than filling gaps with invention. The truth is already compelling.
+Applied To: All future articles / All team members
+Date: 2026-07-07
+```
+
+---
+
 # REVISION HISTORY
 
 **2026-07-07 - Initial Creation**
@@ -377,6 +498,12 @@ The real story is already compelling. We don't need to improve it; we need to te
 - Documented editorial decision: privacy + authenticity balance
 - Captured 8 key lessons from the review process
 - Set structure for team learning and continuous improvement
+
+**2026-07-07 - Added Team Insights Format**
+- Created standardized insight template for all team members
+- Recorded all insights from Article No.1 in consistent format
+- Established that any team member (Christopher, Robert, Nathan, Lucas, Maki) can contribute insights
+- Set principle: When one team member learns something, the entire team learns it
 
 ---
 
