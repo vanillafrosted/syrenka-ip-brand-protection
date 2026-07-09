@@ -6,32 +6,31 @@ This document records editorial decisions and their impact. It is not a place to
 
 ---
 
-## 2026-07-10 (Production Article No.2 - Scene 1 Planning Initiated)
+## 2026-07-10 (Production Article No.2 - Scene 1 Begins with Minimal Questions)
 
 ### Decision
-Initiated production of Article No.2 using the same validated workflow established by Prototype Article No.1.
+Initiated Article No.2 production using the same minimal chronological questioning approach that made Prototype Article No.1 successful.
 
 ### Reason
-Prototype Article No.1 successfully demonstrated all Editorial Handbook principles and production workflow. Article No.2 production now begins using the same proven system.
+Prototype Article No.1 proved that letting the story emerge from Ray's actual experience—through simple chronological questions—produces authentic, powerful narrative. Maki has confirmed this approach should continue for all production articles. No advance scope planning. No predetermined emotional arc. Just: "What happened next?"
 
 ### Changes Made
-- Created HANDOFF_Stephen_Mitchell_Article_No2_Scene1_Planning.md
-- Prepared minimum chronological questions framework for Scene 1
-- Established critical clarification questions for Maki regarding Article No.2 scope
-- Confirmed Scene 1 planning will follow established Editorial Handbook standards
-- Timeline set: Scene 1 planning complete by 2026-07-11, ready for Nicholas Brooks
+- Created HANDOFF_Stephen_Mitchell_Article_No2_Scene1.md (minimal questions handoff)
+- Opening question: "What happened after you handed the certified letter to the post office clerk?"
+- Established principle: Let scope, arc, and structure emerge naturally from Ray's real experience
+- Confirmed this approach will be used for all 83 articles
 
 ### Affected Documents
-- HANDOFF_Stephen_Mitchell_Article_No2_Scene1_Planning.md (new)
+- HANDOFF_Stephen_Mitchell_Article_No2_Scene1.md (new)
 - 99_Change_Log.md (this entry)
 
 ### Status
-Initiated. Awaiting Maki's clarification on Article No.2 scope (topic, timeline, emotional arc).
+Ready. Stephen Mitchell begins with minimal chronological questions.
 
 ### Notes
-Article No.2 production follows the validated workflow: Scope clarification → Scene 1 planning → Detailed questions → Scene 1 writing → Editorial review → Fact verification → CEO review → Final approval.
+This confirms the core Editorial Manifesto principle: "One real person's authentic experience is more valuable than any invented narrative." The workflow proves itself: minimal questions → real reconstruction → natural scene emergence → authentic story.
 
-Scene 1 focus: Reconstruct Ray's actual experience using minimum chronological questions. No writing occurs until all questions are clarified.
+No scope, outline, or predetermined structure. Just: What actually happened?
 
 ---
 
