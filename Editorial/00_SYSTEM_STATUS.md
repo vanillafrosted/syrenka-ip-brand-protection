@@ -103,41 +103,92 @@ We are now entering PRODUCTION PHASE for Articles 2–83.
 
 ## Production Workflow: Established (2026-07-09)
 
-### Single Source of Truth
+### Architectural Separation: Narrative + Presentation
+
+All English Syrenka articles follow this two-layer architecture:
+
+#### Layer 1: Narrative Master (Permanent)
+**File**: `Prototype_Article_##_Locked.md`
+- Contains: Story only (pure narrative)
+- Status: LOCKED, Version 1.0, Approved by Maki
+- Purpose: Preserves the approved story exactly as written
+- Timeless and unchanging
+- No editing after approval
+
+#### Layer 2: Presentation Layer (Flexible)
+**File**: `Prototype_Article_##_Presentation.md`
+- Contains: Website elements derived from narrative
+  - SEO metadata
+  - Hero image specifications
+  - Key takeaways
+  - Practical tips
+  - Related articles
+  - Disclaimer
+  - Call to action
+- Purpose: Enhances reader experience, optimizes for web
+- Can be updated without changing narrative
+- Marketing/presentation improvements here
+
+### Single Source of Truth: Narrative Layer
 
 **Master File**: `Prototype_Article_01_Locked.md`
 
-This is the ONLY authoritative source for Article No.1 content.
+This is the ONLY authoritative source for Article No.1 STORY.
 
 - Version: 1.0 (LOCKED)
+- Contains: Pure narrative only
 - Approved by: Maki (CEO)
-- Published: https://syrenka-ip-brand-protection.vercel.app/articles/why-syrenka-brand-guardian-story.html
+- Status: Permanent reference
 - Do Not Edit Directly
 
 ### Markdown First Workflow
 
 ALL future articles must follow this sequence:
 
-1. **Markdown Creation** — Article written in markdown format
-2. **Editorial Review** — Christopher (Editor-in-Chief) reviews
-3. **Fact Checking** — Nathan verifies all information
+**PHASE 1: NARRATIVE CREATION & APPROVAL**
+
+1. **Narrative Markdown** — Christopher writes story in markdown (pure narrative)
+2. **Editorial Review** — Christopher (Editor-in-Chief) reviews narrative
+3. **Fact Checking** — Nathan verifies all information in story
 4. **Quality Assurance** — Lucas confirms editorial consistency
-5. **Final Approval** — Maki reviews and approves
-6. **HTML Generation** — Markdown converted to HTML for publishing
-7. **Publication** — HTML deployed to production
+5. **Final Approval** — Maki reviews and approves narrative
+6. **Lock Narrative** — Create `Article_##_Locked.md` with approved story
 
-**Critical Rule**: HTML files must NEVER become the source of truth. Markdown is always the master.
+**PHASE 2: PRESENTATION LAYER DEVELOPMENT**
 
-### Locked File Policy
+7. **Create Presentation File** — Develop SEO, metadata, takeaways, tips, etc.
+8. **Review Presentation** — Ensure presentation enhances without altering narrative
+9. **HTML Generation** — Generate HTML from narrative + presentation layer
+10. **Publication** — Deploy to production
 
-After an article is approved and published:
+**Critical Rules**:
+- HTML files must NEVER become the source of truth
+- Narrative is always the master (the locked markdown file)
+- Presentation layer is separate and flexible
+- Edits to narrative create new locked versions (v2, v3, etc.)
+- Presentation layer can be updated independently
 
-1. Create a Locked version: `Prototype_Article_##_Locked.md`
+### Locked File Policy (Narrative Layer)
+
+After narrative is approved:
+
+1. Create a Locked version: `Article_##_Locked.md`
 2. Add header: STATUS: LOCKED, Version 1.0, Approved by Maki
-3. Preserve permanently in repository
-4. NEVER overwrite a locked file
-5. If corrections needed, create new version: `Prototype_Article_##_Locked_v2.md`
-6. Each locked version becomes a permanent reference standard
+3. Contains: Pure narrative only (no presentation sections)
+4. Preserve permanently in repository
+5. NEVER overwrite a locked file
+6. If narrative corrections needed, create new version: `Article_##_Locked_v2.md`
+7. Each locked version becomes a permanent reference standard
+
+### Presentation Layer Policy
+
+Presentation files are separate and updateable:
+
+1. Create: `Article_##_Presentation.md`
+2. Contains: SEO, metadata, takeaways, tips, related articles, disclaimer, CTA
+3. Can be updated independently (no impact on locked narrative)
+4. Version updates not required for presentation changes
+5. Always references the locked narrative file as source
 
 ### Workflow Enforcement
 
