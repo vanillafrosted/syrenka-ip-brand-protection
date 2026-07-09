@@ -93,11 +93,79 @@ The declaration will be recorded in Editorial Change Log with the date and notes
 
 ## Current Phase Summary
 
-We have built the Editorial Handbook.
+PHASE CHANGE: Prototype Validation COMPLETE
 
-Now we prove it works.
+Prototype Article No.1 is now LOCKED and APPROVED.
 
-Prototype Article No.1 is the validation.
+We are now entering PRODUCTION PHASE for Articles 2–83.
 
-Only then do we begin production of the full 83-article series.
+---
+
+## Production Workflow: Established (2026-07-09)
+
+### Single Source of Truth
+
+**Master File**: `Prototype_Article_01_Locked.md`
+
+This is the ONLY authoritative source for Article No.1 content.
+
+- Version: 1.0 (LOCKED)
+- Approved by: Maki (CEO)
+- Published: https://syrenka-ip-brand-protection.vercel.app/articles/why-syrenka-brand-guardian-story.html
+- Do Not Edit Directly
+
+### Markdown First Workflow
+
+ALL future articles must follow this sequence:
+
+1. **Markdown Creation** — Article written in markdown format
+2. **Editorial Review** — Christopher (Editor-in-Chief) reviews
+3. **Fact Checking** — Nathan verifies all information
+4. **Quality Assurance** — Lucas confirms editorial consistency
+5. **Final Approval** — Maki reviews and approves
+6. **HTML Generation** — Markdown converted to HTML for publishing
+7. **Publication** — HTML deployed to production
+
+**Critical Rule**: HTML files must NEVER become the source of truth. Markdown is always the master.
+
+### Locked File Policy
+
+After an article is approved and published:
+
+1. Create a Locked version: `Prototype_Article_##_Locked.md`
+2. Add header: STATUS: LOCKED, Version 1.0, Approved by Maki
+3. Preserve permanently in repository
+4. NEVER overwrite a locked file
+5. If corrections needed, create new version: `Prototype_Article_##_Locked_v2.md`
+6. Each locked version becomes a permanent reference standard
+
+### Workflow Enforcement
+
+**Do Not**:
+- Publish HTML without approved markdown source
+- Edit markdown after publication without creating new locked version
+- Use HTML as source for future article versions
+- Skip any review stage in the pipeline
+
+**Do**:
+- Keep markdown as the primary working document
+- Use locked files as reference standards
+- Document all changes in Editorial Change Log
+- Ensure consistency across all 83 articles using the Prototype as the template
+
+---
+
+## Production Timeline
+
+**Article No.1**: LOCKED and PUBLISHED (2026-07-09)
+
+**Articles 2–83**: Begin using this validated workflow
+
+Each future article will:
+- Follow the Editorial Handbook (v1.0)
+- Use the Markdown First workflow
+- Be locked after approval
+- Reference Prototype Article No.1 as the quality standard
+
+---
 
