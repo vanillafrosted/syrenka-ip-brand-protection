@@ -34,6 +34,53 @@ No scope, outline, or predetermined structure. Just: What actually happened?
 
 ---
 
+## 2026-07-10 (Production Rule: Locked Scene Preservation)
+
+### Decision
+Established permanent Production Workflow rule: LOCKED Scene Preservation.
+
+### Reason
+Prototype Article No.1 demonstrated the need to protect approved scenes from accidental loss, mixing with drafts, or future editing. As production scales to 83 articles with multiple scenes each, systematic protection prevents quality degradation and preserves editorial history.
+
+### Changes Made
+- Created PRODUCTION_RULE_Locked_Scene_Preservation.md
+- Defined LOCKED status: scene completes full workflow and receives final approval
+- Established five-step preservation process:
+  1. Save LOCKED scene immediately to working document
+  2. Mark as [LOCKED - SCENE X] - [DATE]
+  3. Never replace or overwrite LOCKED scene
+  4. Continue writing from latest LOCKED version only
+  5. Assemble Production Article from LOCKED scenes only
+- Documented exception handling (factual errors discovered post-lock)
+- Specified documentation requirements for each LOCKED scene
+- Confirmed application to all 83 articles
+
+### Affected Documents
+- PRODUCTION_RULE_Locked_Scene_Preservation.md (new)
+- 04_AI_Workflow.md (to be updated with LOCKED scene handling)
+- 99_Change_Log.md (this entry)
+
+### Status
+Implemented. Effective beginning Article No.2, Scene 1.
+
+### Notes
+LOCKED Scene Preservation rule protects against:
+- Accidental loss of approved scenes
+- Mixing old and new drafts
+- Unintended overwrites during revisions
+- Loss of editorial history
+- Assembly errors with final article
+
+Benefits for long-term production (83 articles):
+- No accumulation of draft risk across scenes
+- Clear audit trail of all approved content
+- Confident assembly of final articles
+- Scalability for large multi-scene projects
+
+This rule ensures quality consistency and team confidence throughout production.
+
+---
+
 ---
 
 ## 2026-07-08
