@@ -1,0 +1,224 @@
+# PROTOTYPE ARTICLE DRAFT #1
+## "Why Syrenka? The Story of How I Became a Guardian of My Brand"
+
+---
+
+## SEO METADATA
+
+**SEO Title** (60 chars): Why Syrenka? The Real Story Behind the Name
+
+**Meta Description** (155 chars): Ray Kono shares the honest, uncertain story of discovering her product was copied—and the accidental moment that led her to finally take action.
+
+**Author**: Ray Kono
+
+**Category**: Brand Protection Philosophy
+
+**Tags**: Brand Protection, Personal Story, Syrenka Origin, Small Business, Counterfeit Defense
+
+**Slug**: why-syrenka-brand-guardian-story
+
+---
+
+## HERO IMAGE
+
+**Spec**: 1200px × 600px (16:9 ratio)
+**Visual**: Syrenka mermaid illustration with sword and shield, with soft teal gradient background
+**Alt Text**: "Syrenka, the Warsaw guardian mermaid, symbolizes small brands learning to protect themselves"
+
+---
+
+## MAIN ARTICLE
+
+### Why Syrenka? The Story of How I Became a Guardian of My Brand
+
+I found the listing by accident, on my phone, still catching my breath from my morning jog.
+
+I hadn't even sat down yet. I checked my phone the way I always do after a run—messages first, then a quick look at how my own listings were doing. I was scrolling through search results for my own product, the way I sometimes do just to see how it looks to customers. And there it was, right there on the small screen in my hand. My image. My design. My packaging. Listed under someone else's name, someone I'd never heard of, someone I'd never sold to.
+
+I didn't feel angry. Not at first. I felt something closer to disbelief. I remember standing in my hallway, still in my running shoes, reading the listing over and over, as if reading it again would somehow explain it differently.
+
+Then I put the phone down.
+
+I couldn't keep looking at it. It was too much. I know that probably sounds strange—it was just a product listing, just pixels on a screen—but it felt like someone had walked into my home and taken something without asking.
+
+Once the initial shock passed, what came next was a kind of hurt I hadn't expected. I'd made six product images for that listing, and each one had taken real time—hours of arranging, photographing, redoing shots that didn't look right. A couple of those images even had me in them, standing next to the product as the person who'd created it. I'd included myself on purpose, so customers would know a real person stood behind what they were buying.
+
+Seeing those same images sitting on someone else's listing, used as if they belonged to them, made it feel like all of that effort had simply been taken. Not copied—taken. There's a difference. Copying feels like theft of an object. This felt like theft of time I could never get back.
+
+For several days, I didn't tell anyone. I'm not sure why. Maybe I didn't know what to say. Maybe saying it out loud would make it more real. I just went about my days, running my shop, answering customer messages, and pretending everything was fine, while that listing sat in the back of my mind like a weight I couldn't put down.
+
+The hurt didn't stay sharp. It softened into something heavier and more persistent—something closer to misery than sadness. I'd catch myself thinking about it while doing unrelated things: washing dishes, packing an order, lying awake at night. It wasn't a single wave of grief. It was a low, constant ache that I couldn't seem to set down.
+
+Eventually, a friend noticed something was off. I told her, mostly because she kept asking. She listened, and then she said the obvious thing: "Have you reported it?"
+
+I hadn't. And even after she said it, I still couldn't bring myself to act. Part of it was not knowing where to start. But a bigger part of it was a fear I hadn't said out loud, even to her: what if I reported it, and nothing happened? What if the platform looked at it and simply did nothing, and the listing just stayed there anyway? I imagined that outcome specifically, and it frightened me more than doing nothing at all. If I tried and was ignored, I thought, I would feel even more miserable than I already did—because then I'd know for certain that even asking for help hadn't been enough.
+
+So I didn't act. I just kept carrying it, and the misery didn't lift.
+
+### The Seminar That Changed Everything
+
+The turning point didn't come from a moment of courage or a planned solution. It came during an online seminar about copyright.
+
+I'd signed up for the seminar simply because it was a seminar about copyright. I didn't know much about the subject, but I thought it might be useful to understand it better. Throughout the lecture, the speaker was warning the audience: be careful. Please don't unknowingly infringe someone else's copyright. And the reason was serious.
+
+The speaker explained that if you unknowingly commit copyright infringement, the copyright holder can send you a certified letter—naiyo shomei—demanding compensation. If you ignore that letter or refuse to resolve the issue, the matter may eventually proceed to a lawsuit. This was the real warning: not just "don't do this," but "don't do this because it could result in a serious legal claim against you."
+
+I listened the same way everyone else did—taking notes, mentally checking my own practices. The warning was directed at people like me, people who might accidentally infringe someone else's work. The speaker was saying: be careful, because if you cross this line, someone could demand compensation from you through a certified letter, and if you don't respond, you could end up in court.
+
+But then, before the seminar even finished, something began to shift in my mind.
+
+I was sitting there, still listening, when a thought suddenly began to form.
+
+Wait.
+
+Wait.
+
+I'm not the person the speaker is warning.
+
+I'm not the one who needs to be afraid of receiving a certified letter from someone else.
+
+I'm the person whose work has been copied.
+
+I'm the person whose copyright has been infringed.
+
+I'm on the opposite side of this entire warning.
+
+If I'm on the opposite side...
+
+Then I'm the one who could send the certified letter.
+
+The realization didn't come all at once. It came slowly, like pieces clicking into place while the speaker was still talking. I felt my heart begin to race as it dawned on me: I'm not the infringer in this story. I'm the person whose work was taken. And the tool the speaker was describing—the certified letter that copyright holders can send—that's a tool I could use.
+
+In that moment, sitting there listening to a warning that wasn't meant for me, everything shifted. I was no longer someone who needed to protect herself from making a mistake. I was someone whose copyright had been infringed, and I had options.
+
+The same fear from before came back—what if I tried and nothing happened? What if sending a certified letter didn't stop the seller? But this time, the fear felt different. This time I wasn't afraid of the unknown. I was afraid of trying and failing.
+
+I hesitated for several more days after that seminar. The realization had come during the lecture, but I still needed time to sit with what it meant. What did it mean that I could send a certified letter myself? Could I really do that? What if I did it wrong? What if nothing changed?
+
+Eventually, a smaller thought began to matter more than the fear: if I didn't try, nothing would change anyway. At least if I tried, I would have done something. I wouldn't be the same person who just put the phone down and carried the weight in silence.
+
+So I did it. I wrote the letter. I brought it to the post office. I paid the fee and had it notarized, and I sent it to the seller's registered address.
+
+I don't remember feeling triumphant when I dropped it in the mail. Mostly I remember feeling like I'd finally exhaled after holding my breath for a long time.
+
+That letter was the beginning of everything that followed.
+
+### What I Didn't Know Yet
+
+I want to be honest about something: at that point, I didn't understand copyright law. I didn't understand trademark rights. I had no idea what a lawsuit actually involved, or what "damages" meant in a legal sense, or how a Japanese court proceeding worked. I wasn't a lawyer. I wasn't an intellectual property specialist. I was a small business owner who had sent one certified letter because a seminar happened to mention it at the right moment.
+
+But that one letter led somewhere. The seller didn't respond, so I had to learn what came next. I started reading about trademark registration and copyright law. I learned, slowly and often by making mistakes, how evidence needed to be organized for it to matter in a Japanese court. Eventually I filed my first case—and it was nothing like simple. By then I'd learned about trademark infringement, copyright infringement, and damage to my reputation as a seller, and I didn't yet know how to choose just one, so I included several claims at once. My documents were full of mistakes—formatting I got wrong, terms I misused, pages I had to redo more than once.
+
+What I remember most from that first case, though, isn't the mistakes. It's the court staff. They could have simply handed my paperwork back and told me to fix it myself. Instead, they were patient. They pointed out what needed to change, sometimes more than once, without ever making me feel foolish for not knowing. Their kindness ended up being as much a part of that experience as anything I argued in the case itself.
+
+Over the years that followed, I filed more than 36 cases. Some I won. Some I withdrew. Some taught me things I wish I'd known earlier. Every single one added to an understanding I never set out to build. I didn't become a brand owner because I understood brand protection. I learned brand protection because I was a brand owner who couldn't figure out what else to do except keep learning.
+
+Somewhere along that road, without really noticing it happening, my understanding of what a "brand" even was began to shift. I used to think it was a name, a logo, a nice product photo. I came to see it as something closer to a living thing—something that needed tending, something that could be hurt, something worth defending, piece by piece, decision by decision.
+
+### Why I Chose the Name Syrenka
+
+It was only much later, after I'd been through several cases, that I came across the story of Syrenka—the mermaid of Warsaw. She's often shown holding a sword and shield, and it would be easy to read her as simply a symbol of fighting. But the more I learned about her, the more I understood that isn't really what she represents. She's a guardian—someone who watches over and protects, not someone who goes looking for battles.
+
+That felt closer to what I'd actually become, without ever choosing to. I hadn't set out to fight anyone. I'd set out to protect something I'd made with my own hands, at a moment when I felt too hurt and too unsure to know how. Slowly, imperfectly, with a lot of hesitation along the way, I became someone who protected that work—and, without quite planning it, someone who wanted to help other people protect theirs too.
+
+I named this site after her because a guardian doesn't only protect herself. She watches over anyone who needs it. I think of this website the same way—not as a record of fights won, but as a place for anyone who has worked hard on something, watched it get taken, and needed someone to say: you don't have to feel ready to protect it. You just have to take the next small step, the way I did, and let the rest follow.
+
+### Why This Website Exists
+
+I still don't think of myself as an expert. I'm not a lawyer, and nothing here is legal advice. I'm someone who was once too overwhelmed to even look at a screen, who took days to tell a friend, who hesitated for what felt like forever before sending one piece of certified mail.
+
+Everything I share on this site—the strategies, the case details, the explanations of how Japanese courts and platforms work—comes from that same slow, uncertain process of figuring things out one step at a time. If you're reading this because something of yours was copied and you don't know what to do yet, I understand that feeling more than you might guess. You don't need to have it figured out. I certainly didn't.
+
+You just need to be willing to take the next step, even a small one, even a hesitant one. That's genuinely how this began.
+
+### What Comes Next
+
+In the articles that follow, I'll share what I gradually learned: how to document evidence in a way that actually holds up, what happened when I finally understood trademark and copyright protections in Japan, what it was like walking into a courtroom for the first time, and what I'd tell my earlier self if I could.
+
+Some of it is practical. Some of it is just the honest, sometimes messy story of learning as I went. I'm sharing it because I remember what it felt like to have no idea where to start—and because I wish someone had shown me that starting small was enough.
+
+---
+
+## KEY TAKEAWAYS
+
+• It's normal to feel shock first, then to feel overwhelmed before you can process what happened
+• Hurt often comes from recognizing how much real effort and time was taken, not just the copying itself
+• That hurt can settle into something heavier—a quiet misery rather than sharp anger
+• Fear of being ignored after reporting is a real and valid reason for hesitation
+• Small courage doesn't feel like confidence—it's choosing to act despite the fear that it won't work
+• Understanding often arrives by accident, not through deliberate research
+• You don't need to be a lawyer to send a certified letter (naiyo shomei) in Japan
+
+---
+
+## PRACTICAL TIPS
+
+**Tip 1: Give Yourself Time to Feel It First**
+If you've just discovered a copied listing, you don't have to respond right away. It's okay to close the laptop. It's okay to sit with the shock, hurt, or misery for days before deciding what to do. There's no deadline on your emotional reaction.
+
+**Tip 2: Name the Fear That's Actually Stopping You**
+Often it isn't just not knowing how to act—it's the fear that acting won't work, and that being ignored will feel worse than doing nothing. Naming that fear specifically, even just to yourself, can help you decide whether it's worth acting anyway.
+
+**Tip 3: Look for Learning Opportunities, Even Unrelated Ones**
+Ray's turning point came from a copyright seminar she attended for a different reason entirely. Attending webinars, reading articles, or joining seller communities—even ones that don't seem directly related to your situation—can plant the idea that eventually leads you to act.
+
+---
+
+## RELATED ARTICLES
+
+• [Protecting Your Product Images from Copying: A 3-Level Strategy](/articles/product-images-strategy) — Learn how Ray designs products to be harder to copy
+• [Gathering Evidence: The First Step to Brand Protection](/articles/evidence-collection) — Discover Ray's systematic approach to documentation
+• [Why Giving Up Costs More Than Fighting](/articles/why-not-give-up) — Understand the long-term impact of inaction
+
+---
+
+## DISCLAIMER
+
+This article shares Ray Kono's personal experience protecting her brand in Japan. It is not legal advice. Every brand protection situation is unique, and experiences that worked for Syrenka may not work for your situation. For specific legal questions about intellectual property, trademark, copyright, or brand protection in Japan, please consult with a qualified IP attorney in your jurisdiction.
+
+---
+
+## CALL TO ACTION
+
+Ray's journey didn't begin with confidence. It began with a phone screen after a morning jog, a few silent days, and a hesitant letter sent months later.
+
+If you're standing where she once stood, you don't need to have it figured out yet.
+
+Read on for the practical guides that came out of what Ray learned along the way—one uncertain, imperfect step at a time.
+
+---
+
+## ARTICLE STATUS
+
+**Word Count**: ~2,150 words
+
+**Revision**: v6 — Seminar scene refined: (1) Explained certified letter's serious consequences (compensation demand + potential lawsuit), (2) Realization timing moved to DURING seminar, not later
+
+**Quality Check**:
+- ✅ Shock: discovery, disbelief, rereading the listing
+- ✅ Discovery scene now grounded in a specific, authentic moment: on her phone, right after her morning jog (not a generic laptop scene)
+- ✅ Overwhelmed: putting the phone down, unable to keep looking
+- ✅ Hurt: specific detail (six product images, hours of work, herself pictured as product supervisor)
+- ✅ Miserable: reframed as a heavier, more persistent state than sadness; distinct from the initial hurt
+- ✅ Fear of being ignored after reporting explicitly named as a cause of hesitation
+- ✅ That same fear resurfaces after the seminar, deepening the hesitation before action
+- ✅ Small courage explicitly distinguished from confidence
+- ✅ Seminar scene: Speaker explains the serious consequences of copyright infringement (certified letter demanding compensation, potential lawsuit) — not just a casual mention
+- ✅ Ray listens the same way everyone else does at first (as a warning to potential infringers)
+- ✅ DURING the seminar (before it ends), the realization slowly begins to dawn: "Wait... I'm not the person being warned... I'm on the opposite side..."
+- ✅ Her heart races as it clicks into place while the speaker is still talking
+- ✅ After the seminar, she still hesitates for several more days before acting, needs time to process what it means
+- ✅ The power is in the authentic timing and slowness, not dramatization
+- ✅ Action: sending the letter, framed as the beginning, not a resolution
+- ✅ First lawsuit reframed as complex (multiple claims: trademark, copyright, reputation damage) with real mistakes in the documents, and the court staff's kindness highlighted as a meaningful part of the experience
+- ✅ "Brand" concept withheld until after the letter is sent
+- ✅ Ray explicitly not positioned as an expert/lawyer from the outset
+- ✅ Syrenka symbolism reframed from "fighting" to "guardian" — protecting herself and, without planning it, others trying to protect their own work
+- ✅ Written from Ray Kono's first-person perspective throughout; underlying facts/emotions remain true to Maki's real experience
+- ✅ Japan context (naiyo shomei, courts, trademark/copyright) integrated naturally, not as separate sections
+- ✅ Follows template structure
+- ✅ Adheres to editorial guidelines
+
+---
+
+**NEXT STEP**: Ready for review by Maki — then Robert (SEO), Nathan (Fact-checking), and Lucas (Quality Assurance)
