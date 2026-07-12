@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syrenka Speech Bubble Text-Size Comparison | Article No.3</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #f5f5f5;
+            color: #1a1a3e;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 12px;
+            font-size: 28px;
+            color: #20b2aa;
+        }
+        .intro {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 14px;
+            color: #666;
+            line-height: 1.6;
+        }
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 40px;
+            margin-bottom: 60px;
+        }
+        .variation {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .variation-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid #e8f9f7;
+        }
+        .variation-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #20b2aa;
+        }
+        .variation-spec {
+            font-size: 12px;
+            color: #999;
+            text-align: right;
+        }
+        .variation-spec-line {
+            display: block;
+            margin: 2px 0;
+        }
+        .image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .variation-details {
+            background: #f9f9f9;
+            padding: 16px;
+            border-radius: 4px;
+            font-size: 13px;
+            line-height: 1.6;
+            color: #555;
+        }
+        .variation-details h3 {
+            font-size: 12px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .text-flow {
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            background: white;
+            padding: 12px;
+            border-left: 3px solid #20b2aa;
+            margin: 8px 0;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        .recommendation {
+            background: #e8f9f7;
+            border-left: 4px solid #20b2aa;
+            padding: 16px;
+            margin-top: 16px;
+            border-radius: 4px;
+        }
+        .recommendation-label {
+            display: inline-block;
+            background: #20b2aa;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+        .recommendation-text {
+            font-size: 13px;
+            color: #4b5563;
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 30px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 12px;
+            color: #999;
+        }
+        .comparison-note {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 16px;
+            margin-bottom: 30px;
+            border-radius: 4px;
+            font-size: 13px;
+            color: #856404;
+            line-height: 1.6;
+        }
+        @media (max-width: 768px) {
+            h1 { font-size: 22px; }
+            .variation { padding: 20px; }
+            .variation-header { flex-direction: column; align-items: flex-start; }
+            .variation-spec { text-align: left; margin-top: 8px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Syrenka Speech Bubble: Text-Size Comparison</h1>
+        <div class="intro">
+            <p>Article No.3 – "The Unfamiliar Stamps: What I Learned at the Post Office"</p>
+            <p>Comparing three variations with improved mobile readability</p>
+        </div>
+
+        <div class="comparison-note">
+            <strong>Comparison Guidelines:</strong> All variations use the same Syrenka character and speech bubble design. Only text size and line breaks differ. Compare readability on various screen sizes to determine which variation works best for mobile devices.
+        </div>
+
+        <div class="comparison-grid">
+            <!-- VARIATION A -->
+            <div class="variation">
+                <div class="variation-header">
+                    <div class="variation-title">Variation A: Largest Font</div>
+                    <div class="variation-spec">
+                        <span class="variation-spec-line"><strong>Font Size:</strong> 70pt</span>
+                        <span class="variation-spec-line"><strong>Lines:</strong> 7</span>
+                    </div>
+                </div>
+                <div class="image-container">
+                    <img src="/assets/images/article003-syrenka-speech-bubble-varA.png" alt="Variation A: 70pt font size">
+                </div>
+                <div class="variation-details">
+                    <h3>Text Flow</h3>
+                    <div class="text-flow">There's a moment at the
+counter. Stamps lined up.
+You and the clerk,
+counting together. One by
+one. That quiet
+counting—that's what you
+remember.</div>
+                    <h3>Characteristics</h3>
+                    <p>Maximum accessibility with the largest font size. Excellent for users with visual impairments or very small smartphone screens. May appear slightly oversized on larger devices.</p>
+                </div>
+            </div>
+
+            <!-- VARIATION B -->
+            <div class="variation">
+                <div class="variation-header">
+                    <div class="variation-title">Variation B: Medium Font (RECOMMENDED)</div>
+                    <div class="variation-spec">
+                        <span class="variation-spec-line"><strong>Font Size:</strong> 55pt</span>
+                        <span class="variation-spec-line"><strong>Lines:</strong> 5</span>
+                    </div>
+                </div>
+                <div class="image-container">
+                    <img src="/assets/images/article003-syrenka-speech-bubble-varB.png" alt="Variation B: 55pt font size (Recommended)">
+                </div>
+                <div class="variation-details">
+                    <h3>Text Flow</h3>
+                    <div class="text-flow">There's a moment at the counter.
+Stamps lined up. You and the
+clerk, counting together. One by
+one. That quiet counting—that's
+what you remember.</div>
+                    <h3>Characteristics</h3>
+                    <p>Optimal balance between readability and aesthetic appeal. Font size is clearly readable on standard smartphone screens without being excessive. Clean 5-line flow.</p>
+                    <div class="recommendation">
+                        <div class="recommendation-label">Richard's Recommendation</div>
+                        <div class="recommendation-text">This variation offers the best balance for mobile viewing. Font is large enough for comfortable reading on smartphones while maintaining visual harmony with the Syrenka character design.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- VARIATION C -->
+            <div class="variation">
+                <div class="variation-header">
+                    <div class="variation-title">Variation C: Optimized Compact Font</div>
+                    <div class="variation-spec">
+                        <span class="variation-spec-line"><strong>Font Size:</strong> 45pt</span>
+                        <span class="variation-spec-line"><strong>Lines:</strong> 5</span>
+                    </div>
+                </div>
+                <div class="image-container">
+                    <img src="/assets/images/article003-syrenka-speech-bubble-varC.png" alt="Variation C: 45pt font size">
+                </div>
+                <div class="variation-details">
+                    <h3>Text Flow</h3>
+                    <div class="text-flow">There's a moment at the counter.
+Stamps lined up. You and the clerk,
+counting together. One by one. That
+quiet counting—that's what you
+remember.</div>
+                    <h3>Characteristics</h3>
+                    <p>Balanced option optimized for tablets and larger screens. Text remains fully readable while maintaining more conservative sizing. Works well across a wide range of devices.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Select your preferred variation and notify Marcus. The final version will be integrated into Article No.3 for publication.</p>
+        </div>
+    </div>
+</body>
+</html>
