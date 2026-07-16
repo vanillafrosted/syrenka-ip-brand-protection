@@ -78,6 +78,60 @@ This is one of the unique strengths of the English website.
 
 ---
 
+## Article Types
+
+The English blog now contains two different article categories.
+
+### Type A — Archive Article
+
+**Purpose:**
+
+Transform historical experiences recorded in Kindle books into English blog articles.
+
+**Characteristics:**
+
+- Based on Kindle content
+- Chronology reconstructed from historical events
+- Interviews may be required
+- Supporting historical documents and photographs used where available
+
+**Workflow:**
+
+Prototype Article workflow.
+
+---
+
+### Type B — Daily Log Article
+
+**Purpose:**
+
+Document recent real-world events while they are still fresh.
+
+**Characteristics:**
+
+- Based on current events
+- Uses Daily Logs prepared by Maki
+- Supported by recent photographs, documents, or voice recordings
+- Requires only minimal clarification before article production
+
+**Workflow:**
+
+Daily Log workflow.
+
+---
+
+### Editorial Principle
+
+Both article types are equally important.
+
+**Archive Articles** preserve the long-term history behind Syrenka.
+
+**Daily Log Articles** document the continuing development of real events.
+
+Together they create a continuous historical record of the Syrenka project.
+
+---
+
 ## Two-Phase Content Plan
 
 ### Phase 1: English Adaptation (Current Phase)
