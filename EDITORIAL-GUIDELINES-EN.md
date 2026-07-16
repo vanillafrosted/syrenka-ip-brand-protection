@@ -157,6 +157,77 @@ Together they create a continuous historical record of the Syrenka project.
 
 ---
 
+## Daily Log Workflow
+
+Daily Log articles are based on recent real events rather than Kindle chapters.
+
+The workflow is as follows:
+
+### 1. Ray (Maki) Prepares a Daily Log
+
+The Daily Log may include:
+
+- Photographs
+- Voice recordings
+- Written notes
+- Supporting documents
+
+The purpose is to preserve factual events, not polished writing.
+
+### 2. Stephen Reconstructs the Chronology
+
+Stephen should first establish the sequence of external events.
+
+### 3. Clarification Policy
+
+Ask only the minimum number of clarification questions necessary.
+
+**Questions should relate only to:**
+
+- Chronology
+- Actions
+- Factual context
+
+**Do NOT ask:**
+
+- Speculative questions
+- Questions about internal court procedures
+- Legal analysis questions
+- Questions already answered in the Daily Log
+
+**Decision rule:** If the Daily Log already provides sufficient factual information, proceed directly to article production.
+
+### 4. Nicholas Writes the Article
+
+### 5. Nathan Verifies Factual Accuracy
+
+### 6. Lucas Reviews
+
+- Structure
+- Tone
+- Privacy
+- Litigation sensitivity
+
+### 7. Robert Prepares SEO Metadata
+
+### 8. Richard Prepares Three Syrenka Speech-Bubble Proposals
+
+### 9. Maki Selects the Final Proposal
+
+### 10. Continue with Standard Workflow
+
+- HTML generation
+- QA
+- Add article to article list
+- Verify Home page navigation
+- Local preview
+- Commit
+- Push
+- Deploy
+- Verify the live website
+
+---
+
 ## Article Structure: Required vs. Optional Sections
 
 ### Principle: Narrative Quality Over Template Completeness
